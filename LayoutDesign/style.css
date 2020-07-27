@@ -97,11 +97,11 @@ a{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 70vh;
+    height: 60vh;
 }
 
 .cover-image{
-    width : 60vh;
+    width : 30%;
     
 }
 
