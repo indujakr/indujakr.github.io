@@ -40,6 +40,7 @@ const setHEXValue = () => {
         redInput.style.background = "red";
         greenInput.style.background = "red";
         blueInput.style.background = "red";
+        colorSet.style.background = "white";
     }
 
 }

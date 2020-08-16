@@ -44,6 +44,7 @@ const setRGBValue = () => {
     } else {
         colorSet.placeholder = "Invalid Input!! Please Input Valid HEX value";
         hexInput.style.background = "red";
+        colorSet.style.background = "white";
     }
 }
 
