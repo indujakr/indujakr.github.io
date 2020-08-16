@@ -1,0 +1,58 @@
+body {
+    font-family: 'EB Garamond', serif;
+    background-color: burlywood;
+    color: brown;
+    margin: 0;
+    font-size: 1.3rem;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-items: center;
+    width: 100%;
+    margin: auto;
+    gap: 0.8rem;
+}
+
+h2 {
+    color: rgb(216, 39, 39);
+    text-align: center;
+}
+
+#hint {
+    font-size: 1.1rem;
+    font-style: italic;
+}
+
+.buttonClass {
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(39, 37, 37);
+}
+
+button {
+    width: 6rem;
+    height: 1.5rem;
+    background-color: rgb(8, 158, 228);
+    box-shadow: cyan;
+    border: 0.5rem;
+    cursor: pointer;
+    color: rgb(39, 37, 37);
+}
+
+#colorSet {
+    height: 2.5rem;
+    background-color: white;
+}
+
+input {
+    width: 20rem;
+    height: 2rem;
+}
