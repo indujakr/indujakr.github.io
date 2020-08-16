@@ -23,7 +23,8 @@ Question 3:
 
 Note : 
 * Answer to each question is on separate file: 
-         question1.js, question2.js and question3.js
+         question1.js, question2.js 
+         for challange 3 demo view in https://indujakr.github.io/ColorCodeConverter 
 * Each solution could be tested by simply executing the script.
 * Default test cases are left in the code.
 
